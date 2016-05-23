@@ -2,6 +2,8 @@
 
 ![Screenshot](https://lut.im/T5RjyyWs9U/BUVYbEStfFe1pr3i.png)
 
+*The Monokai theme in action.*
+
 Some syntax themes for Godot. You need a Godot 2.1 development build to use
 them.
 
@@ -9,6 +11,7 @@ them.
 
 - Atom Dark
 - Monokai
+- One Dark
 - Solarized Dark
 
 ## Installation
