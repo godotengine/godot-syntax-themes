@@ -1,5 +1,7 @@
 # Godot syntax themes
 
+![Screenshot](https://lut.im/T5RjyyWs9U/BUVYbEStfFe1pr3i.png)
+
 Some syntax themes for Godot. You need a Godot 2.1 development build to use
 them.
 
