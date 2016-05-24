@@ -10,13 +10,14 @@ them.
 ## Available themes
 
 - Atom Dark
+- Gruvbox Dark
 - Monokai
 - One Dark
 - Solarized Dark
 
 ## Installation
 
-Put the `.tet` files in your Godot text editor theme directory:
+Place the `.tet` files in your Godot text editor theme directory:
 
 - On GNU/Linux: `~/.godot/text_editor_themes/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
@@ -28,5 +29,4 @@ able to choose the desired theme.
 
 Copyright (c) 2016 Hugo Locurcio and contributors
 
-CC0 1.0 Universal, see `LICENSE.md` for
-more information.
+CC0 1.0 Universal, see `LICENSE.md` for more information.
