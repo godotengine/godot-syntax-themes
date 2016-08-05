@@ -11,6 +11,7 @@ them.
 
 - Atom Dark
 - Gruvbox Dark
+- Metro
 - Monokai
 - One Dark
 - Solarized Dark
