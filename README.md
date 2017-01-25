@@ -23,8 +23,8 @@ Place the `.tet` files in your Godot text editor theme directory:
 - On GNU/Linux: `~/.godot/text_editor_themes/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
 
-Start Godot, then go to the Editor Settings -> Text Editor. You should now be
-able to choose the desired theme.
+Start Godot, then go to the upper-right `Settings` -> `Editor Settings` ->
+`Text Editor`. You should now be able to choose the desired theme.
 
 ## License
 
