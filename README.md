@@ -1,8 +1,8 @@
 # Godot syntax themes
 
-![Screenshot](https://lut.im/T5RjyyWs9U/BUVYbEStfFe1pr3i.png)
+![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
 
-*The Monokai theme in action.*
+*The Darcula theme in action.*
 
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor. You need Godot 2.1 to use them, but these also work in
