@@ -22,7 +22,8 @@ the current 3.0 development builds.
 
 Place the `.tet` files in your Godot text editor theme directory:
 
-- On Linux and macOS: `$HOME/.godot/text_editor_themes/`
+- On Linux: `~/.config/godot/text_editor_themes/`
+- On macOS: `~/Library/Application Support/Godot/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
 
 To change the theme:
@@ -36,11 +37,14 @@ To change the theme:
   able to choose the desired theme.
 
 **Tip:** You can clone this Git repository directly into the text editor themes
-path, if the destination folder does not exist, using the following Git command:
+path (if the destination folder does not exist) using the following Git command:
 
 ```bash
-# On Linux and macOS
-git clone https://github.com/Calinou/godot-syntax-themes.git "$HOME/.godot/text_editor_themes"
+# On Linux
+git clone https://github.com/Calinou/godot-syntax-themes.git "~/.config/godot/text_editor_themes"
+
+# On macOS
+git clone https://github.com/Calinou/godot-syntax-themes.git "~/Library/Application Support/Godot/text_editor_themes"
 
 # On Windows
 git clone https://github.com/Calinou/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
@@ -48,7 +52,7 @@ git clone https://github.com/Calinou/godot-syntax-themes.git "%APPDATA%\Godot\te
 
 ## License
 
-Copyright © 2016-2017 Hugo Locurcio and contributors
+Copyright © 2016-2018 Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
 see [LICENSE.md](/LICENSE.md) for more information.
