@@ -5,8 +5,9 @@
 *The Darcula theme in action.*
 
 This repository contains many syntax themes for Godot, for use in the built-in
-script editor. You need Godot 2.1 to use them, but these also work in
-the current 3.0 development builds.
+script editor.
+
+These themes are compatible with the Godot 2.1 and Godot 3.0 series.
 
 ## Available themes
 
@@ -28,16 +29,16 @@ Place the `.tet` files in your Godot text editor theme directory:
 
 To change the theme:
 
-- **On Godot 2.1:** Open a project in Godot, then click on the upper-right
+- **In Godot 2.1:** Open a project in Godot, then click on the upper-right
    **Settings** → **Editor Settings** → **Text Editor**. You should now be able
    to choose the desired theme.
 
-- **On Godot 3.0:** Open a project in Godot, then click on **Editor** in the top
+- **In Godot 3.0:** Open a project in Godot, then click on **Editor** in the top
   menu, then go to the **Editor Settings** then **Text Editor**. You should now be
   able to choose the desired theme.
 
 **Tip:** You can clone this Git repository directly into the text editor themes
-path (if the destination folder does not exist) using the following Git command:
+path (if the destination folder does not exist) using the following command:
 
 ```bash
 # On Linux
