@@ -11,6 +11,8 @@ These themes are compatible with the Godot 2.1 and Godot 3.0 series.
 
 ## Available themes
 
+### Dark
+
 - Atom Dark
 - Darcula
 - Dracula
@@ -20,6 +22,10 @@ These themes are compatible with the Godot 2.1 and Godot 3.0 series.
 - One Dark
 - Solarized Dark
 - Visual Studio Code Dark
+
+### Light
+
+- Visual Studio Code Light
 
 ## Installation
 
