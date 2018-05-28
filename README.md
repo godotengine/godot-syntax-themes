@@ -26,6 +26,7 @@ These themes are compatible with the Godot 2.1 and Godot 3.0 series.
 ### Light
 
 - Quiet Light
+- Solarized Light
 - Visual Studio Code Light
 
 ## Installation
