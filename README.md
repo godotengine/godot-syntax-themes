@@ -54,10 +54,10 @@ path (if the destination folder does not exist) using the following command:
 
 ```bash
 # On Linux
-git clone https://github.com/Calinou/godot-syntax-themes.git "~/.config/godot/text_editor_themes"
+git clone https://github.com/Calinou/godot-syntax-themes.git ~/.config/godot/text_editor_themes
 
 # On macOS
-git clone https://github.com/Calinou/godot-syntax-themes.git "~/Library/Application Support/Godot/text_editor_themes"
+git clone https://github.com/Calinou/godot-syntax-themes.git ~"/Library/Application Support/Godot/text_editor_themes"
 
 # On Windows
 git clone https://github.com/Calinou/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
