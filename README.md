@@ -41,13 +41,13 @@ Place the `.tet` files in your Godot text editor theme directory:
 
 To change the theme:
 
-- **In Godot 2.1:** Open a project in Godot, then click on the upper-right
-   **Settings** → **Editor Settings** → **Text Editor**. You should now be able
-   to choose the desired theme.
-
-- **In Godot 3.0:** Open a project in Godot, then click on **Editor** in the top
+- **In Godot 3:** Open a project in Godot, then click on **Editor** in the top
   menu, then go to the **Editor Settings** then **Text Editor**. You should now be
   able to choose the desired theme.
+
+- **In Godot 2.1:** Open a project in Godot, then click on the upper-right
+  **Settings** → **Editor Settings** → **Text Editor**. You should now be able
+  to choose the desired theme.
 
 **Tip:** You can clone this Git repository directly into the text editor themes
 path (if the destination folder does not exist) using the following command:
