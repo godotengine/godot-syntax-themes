@@ -7,7 +7,9 @@
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
 
-These themes are compatible with the Godot 2.1 and Godot 3.0 series.
+These themes are compatible with the Godot 2.1 and Godot 3 series.
+
+*Want even more themes? Check out [base16-godot](https://github.com/Calinou/base16-godot).*
 
 ## Available themes
 
