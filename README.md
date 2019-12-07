@@ -41,6 +41,10 @@ Place the `.tet` files in your Godot text editor theme directory:
 - On macOS: `~/Library/Application Support/Godot/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
 
+**Note:** If you installed Godot using Steam, your Godot text editor theme
+folder should be placed in `steamapps/common/Godot Engine/editor_data/text_editor_themes/`
+in your Steam installation folder.
+
 To change the theme:
 
 - **In Godot 3:** Open a project in Godot, then click on **Editor** in the top
