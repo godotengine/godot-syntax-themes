@@ -18,6 +18,7 @@ These themes are compatible with the Godot 2.1 and Godot 3 series.
 ### Dark
 
 - Atom Dark
+- Ayu Mirage
 - Darcula
 - Dracula
 - Gruvbox Dark
