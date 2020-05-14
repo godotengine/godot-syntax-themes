@@ -25,6 +25,7 @@ These themes are compatible with the Godot 2.1 and Godot 3 series.
 - Gruvbox Dark
 - Metro
 - Monokai
+- Nord
 - One Dark
 - Solarized Dark
 - Visual Studio Code Dark
