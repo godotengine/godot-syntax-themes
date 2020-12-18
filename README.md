@@ -29,6 +29,7 @@ generated themes.*
 - Monokai
 - Nord
 - One Dark
+- One Monokai
 - Solarized Dark
 - Visual Studio Code Dark
 
