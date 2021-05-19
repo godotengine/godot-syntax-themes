@@ -7,7 +7,7 @@
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
 
-These themes are compatible with the Godot 2.1 and Godot 3 series.
+These themes are compatible with Godot 2.1.x, Godot 3.x and the `master` branch.
 
 *Want even more themes? Check out
 [base16-godot](https://github.com/Calinou/base16-godot) for automatically
@@ -25,6 +25,7 @@ generated themes.*
 - Darcula
 - Dracula
 - Gruvbox Dark
+- Horizon
 - Metro
 - Monokai
 - Nord
@@ -71,7 +72,7 @@ git clone https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godo
 
 ## License
 
-Copyright © 2016-2020 Hugo Locurcio and contributors
+Copyright © 2016-2021 Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
 see [LICENSE.md](/LICENSE.md) for more information.
