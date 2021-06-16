@@ -45,7 +45,7 @@ generated themes.*
 Place the `.tet` files in your Godot text editor theme directory:
 
 - On Linux: `~/.config/godot/text_editor_themes/`
-- On macOS: `~/Library/Application Support/Godot/`
+- On macOS: `~/Library/Application Support/Godot/text_editor_themes/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
 
 **Note:** If you installed Godot using Steam, your Godot text editor theme
@@ -64,7 +64,7 @@ path (if the destination folder does not exist) using the following command:
 git clone https://github.com/godotengine/godot-syntax-themes.git ~/.config/godot/text_editor_themes
 
 # On macOS:
-git clone https://github.com/godotengine/godot-syntax-themes.git ~"/Library/Application Support/Godot/text_editor_themes"
+git clone https://github.com/godotengine/godot-syntax-themes.git "~/Library/Application Support/Godot/text_editor_themes"
 
 # On Windows:
 git clone https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
