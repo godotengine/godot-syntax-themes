@@ -19,29 +19,22 @@ generated themes.*
 ## Available themes
 
 **See [THEMES.md](/THEMES.md) for preview images.**
-
-### Dark
-
-- Apprentice
-- Atom Dark
-- Ayu Mirage
-- Darcula
-- Dracula
-- Gruvbox Dark
-- Horizon
-- Metro
-- Monokai
-- Nord
-- One Dark
-- One Monokai
-- Solarized Dark
-- Visual Studio Code Dark
-
-### Light
-
-- Quiet Light
-- Solarized Light
-- Visual Studio Code Light
+| Dark                    | Light                    |
+|-------------------------|--------------------------|
+| Apprentice              | Quiet Light              |
+| Atom Dark               | Solarized Light          |
+| Ayu Mirage              | Visual Studio Code Light |
+| Darcula                 |                          |
+| Dracula                 |                          |
+| Gruvbox Dark            |                          |
+| Horizon                 |                          |
+| Metro                   |                          |
+| Monokai                 |                          |
+| Nord                    |                          |
+| One Dark                |                          |
+| One Monokai             |                          |
+| Solarized Dark          |                          |
+| Visual Studio Code Dark |                          |
 
 ## Installation
 
