@@ -7,7 +7,10 @@
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
 
-These themes are compatible with Godot 2.1.x, Godot 3.x and the `master` branch.
+**This branch contains themes *only* compatible with Godot 3.x and 2.1.**
+These themes will not display correctly in Godot 4.0.
+[Browse the `4.0-dev` branch](https://github.com/godotengine/godot-syntax-themes/tree/4.0-dev)
+to find themes compatible with Godot 4.0.
 
 *Want even more themes? Check out
 [base16-godot](https://github.com/Calinou/base16-godot) for automatically
