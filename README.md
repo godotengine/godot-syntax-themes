@@ -1,4 +1,4 @@
-# Godot syntax themes
+# Godot syntax themes for Godot 3.x and 2.1
 
 ![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
 
