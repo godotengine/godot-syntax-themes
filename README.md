@@ -1,4 +1,4 @@
-# Godot syntax themes for Godot 4.0
+# Godot syntax themes for Godot 4.x
 
 ![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
 
@@ -7,9 +7,9 @@
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
 
-**This branch contains themes *only* compatible with Godot 4.0.**
+**This branch contains themes *only* compatible with Godot 4.x.**
 These themes will not display correctly in Godot 3.x.
-[Browse the `master` branch](https://github.com/godotengine/godot-syntax-themes/tree/master)
+[Browse the `3.x` branch](https://github.com/godotengine/godot-syntax-themes/tree/3.x)
 to find themes compatible with Godot 3.x.
 
 *Want even more themes? Check out
@@ -19,6 +19,7 @@ generated themes.*
 ## Available themes
 
 **See [THEMES.md](/THEMES.md) for preview images.**
+
 | Dark                    | Light                    |
 |-------------------------|--------------------------|
 | Apprentice              | Quiet Light              |
@@ -57,18 +58,18 @@ path (if the destination folder does not exist) using the following command:
 
 ```bash
 # On Linux:
-git clone --branch=4.0-dev https://github.com/godotengine/godot-syntax-themes.git ~/.config/godot/text_editor_themes
+git clone https://github.com/godotengine/godot-syntax-themes.git ~/.config/godot/text_editor_themes
 
 # On macOS:
-git clone --branch=4.0-dev https://github.com/godotengine/godot-syntax-themes.git "~/Library/Application Support/Godot/text_editor_themes"
+git clone https://github.com/godotengine/godot-syntax-themes.git "~/Library/Application Support/Godot/text_editor_themes"
 
 # On Windows:
-git clone --branch=4.0-dev https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
+git clone https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
 ```
 
 ## License
 
-Copyright © 2016-2021 Hugo Locurcio and contributors
+Copyright © 2016-present Hugo Locurcio and contributors
 
 Files in this repository are licensed under CC0 1.0 Universal,
 see [LICENSE.md](/LICENSE.md) for more information.
