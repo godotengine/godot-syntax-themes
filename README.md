@@ -22,9 +22,12 @@ generated themes.*
 
 | Dark                    | Light                    |
 |-------------------------|--------------------------|
-| Apprentice              | Quiet Light              |
-| Atom Dark               | Solarized Light          |
-| Ayu Mirage              | Visual Studio Code Light |
+| Apprentice              | Catppuccin Latte         |
+| Atom Dark               | Quiet Light              |
+| Ayu Mirage              | Solarized Light          |
+| Catppuccin Frappé       | Visual Studio Code Light |
+| Catppuccin Macchiato    |                          |
+| Catppuccin Mocha        |                          |
 | Darcula                 |                          |
 | Dracula                 |                          |
 | Gruvbox Dark            |                          |
