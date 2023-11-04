@@ -24,7 +24,7 @@ generated themes.*
 | Apprentice              | Catppuccin Latte         |
 | Atom Dark               | Quiet Light              |
 | Ayu Mirage              | Solarized Light          |
-| Catppuccin Frappe       | Visual Studio Code Light |
+| Catppuccin Frappé       | Visual Studio Code Light |
 | Catppuccin Macchiato    |                          |
 | Catppuccin Mocha        |                          |
 | Darcula                 |                          |
