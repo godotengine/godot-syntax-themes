@@ -26,7 +26,7 @@ generated themes.*
 | Atom Dark               | Quiet Light              |
 | Ayu Mirage              | Solarized Light          |
 | Catppuccin Frappé       | Visual Studio Code Light |
-| Catppuccin Macchiato    |                          |
+| Catppuccin Macchiato    | Xcode Light              |
 | Catppuccin Mocha        |                          |
 | Darcula                 |                          |
 | Dracula                 |                          |
@@ -39,6 +39,7 @@ generated themes.*
 | One Monokai             |                          |
 | Solarized Dark          |                          |
 | Visual Studio Code Dark |                          |
+| Xcode Dark              |                          |
 
 ## Installation
 
