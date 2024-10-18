@@ -29,6 +29,7 @@ generated themes.*
 | Catppuccin Macchiato    | Xcode Light              |
 | Catppuccin Mocha        |                          |
 | Darcula                 |                          |
+| DevCode                 |                          |
 | Dracula                 |                          |
 | Gruvbox Dark            |                          |
 | Horizon                 |                          |
