@@ -38,6 +38,7 @@ generated themes.*
 | One Dark                |                          |
 | One Monokai             |                          |
 | Solarized Dark          |                          |
+| Squid                   |                          |
 | Visual Studio Code Dark |                          |
 | Xcode Dark              |                          |
 
