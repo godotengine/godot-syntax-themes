@@ -2,7 +2,7 @@
 
 ![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
 
-**The Darcula theme in action.**
+*The Darcula theme in action.*
 
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
@@ -12,9 +12,9 @@ These themes will not display correctly in Godot 3.x.
 [Browse the `3.x` branch](https://github.com/godotengine/godot-syntax-themes/tree/3.x)
 to find themes compatible with Godot 3.x.
 
-**Want even more themes? Check out
+*Want even more themes? Check out
 [base16-godot](https://github.com/Calinou/base16-godot) for automatically
-generated themes.**
+generated themes.*
 
 ## Available themes
 
