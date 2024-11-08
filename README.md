@@ -21,7 +21,7 @@ generated themes.*
 **See [THEMES.md](/THEMES.md) for preview images.**
 
 | Dark                    | Light                    |
-| ----------------------- | ------------------------ |
+|-------------------------|--------------------------|
 | Apprentice              | Catppuccin Latte         |
 | Atom Dark               | Quiet Light              |
 | Ayu Mirage              | Solarized Light          |
