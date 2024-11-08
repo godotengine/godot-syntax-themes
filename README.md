@@ -2,26 +2,26 @@
 
 ![Screenshot](https://archive.hugo.pro/.public/godot-syntax-themes.png)
 
-*The Darcula theme in action.*
+_The Darcula theme in action._
 
 This repository contains many syntax themes for Godot, for use in the built-in
 script editor.
 
-**This branch contains themes *only* compatible with Godot 4.x.**
+**This branch contains themes _only_ compatible with Godot 4.x.**
 These themes will not display correctly in Godot 3.x.
 [Browse the `3.x` branch](https://github.com/godotengine/godot-syntax-themes/tree/3.x)
 to find themes compatible with Godot 3.x.
 
-*Want even more themes? Check out
+_Want even more themes? Check out
 [base16-godot](https://github.com/Calinou/base16-godot) for automatically
-generated themes.*
+generated themes._
 
 ## Available themes
 
 **See [THEMES.md](/THEMES.md) for preview images.**
 
 | Dark                    | Light                    |
-|-------------------------|--------------------------|
+| ----------------------- | ------------------------ |
 | Apprentice              | Catppuccin Latte         |
 | Atom Dark               | Quiet Light              |
 | Ayu Mirage              | Solarized Light          |
@@ -40,6 +40,7 @@ generated themes.*
 | Nord                    |                          |
 | One Dark                |                          |
 | One Monokai             |                          |
+| Snazzy                  |                          |
 | Solarized Dark          |                          |
 | Squid                   |                          |
 | Visual Studio Code Dark |                          |
