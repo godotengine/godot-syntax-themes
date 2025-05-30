@@ -33,6 +33,7 @@ generated themes.*
 | Dracula                 |                          |
 | Gruvbox Dark            |                          |
 | Horizon                 |                          |
+| JetBrains Dark          |                          |
 | Kanagawa Dragon         |                          |
 | Kanagawa Wave           |                          |
 | Metro                   |                          |
