@@ -53,6 +53,7 @@ Place the `.tet` files in your Godot text editor theme directory:
 - On Linux: `~/.config/godot/text_editor_themes/`
 - On macOS: `~/Library/Application Support/Godot/text_editor_themes/`
 - On Windows: `%APPDATA%\Godot\text_editor_themes\`
+- On Android: check below.
 
 **Note:** If you installed Godot using Steam, your Godot text editor theme
 folder should be placed in `steamapps/common/Godot Engine/editor_data/text_editor_themes/`
@@ -75,6 +76,12 @@ git clone https://github.com/godotengine/godot-syntax-themes.git "~/Library/Appl
 # On Windows:
 git clone https://github.com/godotengine/godot-syntax-themes.git "%APPDATA%\Godot\text_editor_themes"
 ```
+
+### Android
+
+1. Download the desired editor theme file (in `.tet` format).
+2. In the editor's Script tab, go to **File > Theme > Import Theme...**.
+3. Select the `.tet` file in the dialog.
 
 ## License
 
