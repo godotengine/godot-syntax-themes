@@ -24,10 +24,10 @@ generated themes.*
 |-------------------------|--------------------------|
 | Apprentice              | Catppuccin Latte         |
 | Atom Dark               | Quiet Light              |
-| Ayu Mirage              | Solarized Light          |
-| Catppuccin Frappé       | Visual Studio Code Light |
-| Catppuccin Macchiato    | Xcode Light              |
-| Catppuccin Mocha        |                          |
+| Ayu Mirage              | Rosé Pine Dawn           |
+| Catppuccin Frappé       | Solarized Light          |
+| Catppuccin Macchiato    | Visual Studio Code Light |
+| Catppuccin Mocha        | Xcode Light              |
 | Darcula                 |                          |
 | DevCode                 |                          |
 | Dracula                 |                          |
@@ -41,6 +41,8 @@ generated themes.*
 | Nord                    |                          |
 | One Dark                |                          |
 | One Monokai             |                          |
+| Rosé Pine               |                          |
+| Rosé Pine Moon          |                          |
 | Solarized Dark          |                          |
 | Squid                   |                          |
 | Visual Studio Code Dark |                          |
